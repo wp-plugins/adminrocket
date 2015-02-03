@@ -116,4 +116,4 @@ empty
 
 == Screenshots ==
 1. Customize your Wordpress backend
-
+2. Custom posts listing

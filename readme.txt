@@ -29,6 +29,8 @@ AdminRocket allows you to customize your wordpress backoffice with available the
 * Media : add to the media library files pdf, xls, doc, zip, mp3 ...
 * Post listing image : add the featured image of the post to the listing ...
 
+* Screenshots here : [Text to link](http://bnotteghem.com/adminrocket "AdminRocket")
+
 == Installation ==
 
 To install AdminRocket, you must follow carefully these steps :
@@ -48,7 +50,7 @@ You can change the appearance of the new backend AdminRocket menu in the WordPre
 
 This plugin enables default administration theme, and the configuration can be overridden via the AdminRocket menu. Several features are easily editable:
 
-List all features here : 
+= List all features here : =
 
 * Logo :Logo Image URL, Width, Height
 * Background: Background color, Background image, Background pattern
@@ -65,7 +67,7 @@ List all features here :
 * Circular Navigation: Enable Circular Navigation, Buton background color, Font color, Background color #1, Background color #2, Background color overlay, Background color overlay opacity
 
 
-Several themes are available with this plugin :
+= Several themes are available with this plugin : =
 
 * Light theme : 6 themes available
 * Dark theme : 1 theme available
@@ -74,13 +76,13 @@ Several themes are available with this plugin :
 
 All of these resources are available to the plugin root in the folder /adminrocket-res
 
-You can easily save your theme and import again.
+= You can easily save your theme and import again. =
 
 * Export : To save your custom theme, go to the submenu Import / Export AdminRocket and select "Export". This automatically downloads a .json file containing all your theme options. You can rename it downloaded file as in this example : mytheme-red.json.
 * Import : To load a theme simply go to the "Import" and then upload the file .json theme. AdminRocket provides several themes to install. You can easily load your configuration.
 
 
-AdminRocket offers 6 widget to dashboard
+= AdminRocket offers 6 widget to dashboard =
 
 * Profil Widget: see the information in your profile on the home page of backoffice
 * Users Widget: view users with the number of posts and their role.
@@ -105,12 +107,14 @@ I've used the following script, css stylesheet, images, icons or other files as 
 
 == Changelog ==
 
+= 1.0 =
 * 1.0 Initial release
 
 == Upgrade Notice ==
 
-* empty
+= 1.0 =
+empty
 
 == Screenshots ==
-* all screenshots here: http://bnotteghem.com/adminrocket
+1. Customize your Wordpress backend
 

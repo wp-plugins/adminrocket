@@ -3,7 +3,7 @@
  * Plugin Name: AdminRocket
  * Plugin URI: http://bnotteghem.com/adminrocket
  * Description: AdminRocket allows you to customize your wordpress backoffice with available themes or your own settings. Offer a personalized dashboard to your customers!
- * Version:     1.0
+ * Version:     1.1
  * Author:      Ben NOTTEGHEM
  * Author URI:  http://bnotteghem.com
  * Text Domain: adminrocket

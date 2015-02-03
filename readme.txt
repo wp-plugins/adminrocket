@@ -4,7 +4,7 @@ Donate link: http://bnotteghem.com/adminrocket
 Tags: admin, theme, wordpress, backoffice, backend, design, flat, custom, wp-admin
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

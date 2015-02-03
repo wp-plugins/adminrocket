@@ -1,0 +1,22 @@
+.CustomButtonWP {
+    text-transform: uppercase;
+    text-align: center;
+    color: #0C5;
+    font-weight: 300;
+    margin: 5em auto !important;
+    padding: 4px 5px !important;
+    margin: 0 !important;
+    border: 0px solid #0D6 !important;
+    color: #FFF;
+    overflow: hidden;
+    transition: all 0.8s;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+}
+.button, .wrap h2 a, .button-primary {
+    border: 0px solid #0D6 !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important;
+}

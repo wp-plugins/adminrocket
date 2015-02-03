@@ -1,4 +1,4 @@
-=== AdminRocket ===
+=== AdminRocket - customize your backend ===
 Contributors: ibenot
 Donate link: http://bnotteghem.com/adminrocket
 Tags: admin, theme, wordpress, backoffice, backend, design, flat, custom, wp-admin

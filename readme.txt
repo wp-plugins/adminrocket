@@ -12,24 +12,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 AdminRocket allows you to customize your wordpress backoffice with available themes, Dashboard widget and your own settings. Offer a personalized dashboard to your customers!
 
-* Logo : Add a logo in your backend
-* Background : Add a background color / image / pattern in your backend
-* Postbox : widgets dashboard styling
-* Colors : change the color, radius and opacity
-* Buttons : change the appearance of backend buttons
-* Menu : change the appearance / position of the Wordpress Menu
-* Adminbar : change the appearance / the position of the Adminbar
-* Dashboard : change the back office home screen
-* Footer : customize the footer of your backend
-* Fonts : customize titles and make special menu with Google Fonts
-* CSS Animations : animate your backend
-* Security : Backend security
-* CircularNav : add a new menu with shortcuts
-* Login : design of the Admin login form
-* Media : add to the media library files pdf, xls, doc, zip, mp3 ...
-* Post listing image : add the featured image of the post to the listing ...
-
-* Screenshots here : [Text to link](http://bnotteghem.com/adminrocket "AdminRocket")
+* **Logo** : Add a logo in your backend
+* **Background** : Add a background color / image / pattern in your backend
+* **Postbox** : widgets dashboard styling
+* **Colors** : change the color, radius and opacity
+* **Buttons** : change the appearance of backend buttons
+* **Menu** : change the appearance / position of the Wordpress Menu
+* **Adminbar** : change the appearance / the position of the Adminbar
+* **Dashboard** : change the back office home screen
+* **Footer** : customize the footer of your backend
+* **Fonts** : customize titles and make special menu with Google Fonts
+* **CSS Animations** : animate your backend
+* **Security** : Backend security
+* **CircularNav** : add a new menu with shortcuts
+* **Login** : design of the Admin login form
+* **Media** : add to the media library files pdf, xls, doc, zip, mp3 ...
+* **Post listing image** : add the featured image of the post to the listing ...
+* **Screenshots** here : [AdminRocket](http://bnotteghem.com/adminrocket "AdminRocket")
 
 == Installation ==
 
@@ -50,7 +49,7 @@ You can change the appearance of the new backend AdminRocket menu in the WordPre
 
 This plugin enables default administration theme, and the configuration can be overridden via the AdminRocket menu. Several features are easily editable:
 
-= List all features here : =
+= What about features ? =
 
 * Logo :Logo Image URL, Width, Height
 * Background: Background color, Background image, Background pattern
@@ -67,7 +66,7 @@ This plugin enables default administration theme, and the configuration can be o
 * Circular Navigation: Enable Circular Navigation, Buton background color, Font color, Background color #1, Background color #2, Background color overlay, Background color overlay opacity
 
 
-= Several themes are available with this plugin : =
+= What about admin themes ? =
 
 * Light theme : 6 themes available
 * Dark theme : 1 theme available
@@ -76,13 +75,13 @@ This plugin enables default administration theme, and the configuration can be o
 
 All of these resources are available to the plugin root in the folder /adminrocket-res
 
-= You can easily save your theme and import again. =
+= Can I import & export my admin backend themes ? =
 
 * Export : To save your custom theme, go to the submenu Import / Export AdminRocket and select "Export". This automatically downloads a .json file containing all your theme options. You can rename it downloaded file as in this example : mytheme-red.json.
 * Import : To load a theme simply go to the "Import" and then upload the file .json theme. AdminRocket provides several themes to install. You can easily load your configuration.
 
 
-= AdminRocket offers 6 widget to dashboard =
+= What about Dashboard Widgets ? =
 
 * Profil Widget: see the information in your profile on the home page of backoffice
 * Users Widget: view users with the number of posts and their role.

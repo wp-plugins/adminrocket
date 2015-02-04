@@ -30,22 +30,17 @@ AdminRocket allows you to customize your wordpress backoffice with available the
 * **Login** : design of the Admin login form
 * **Media** : add to the media library files pdf, xls, doc, zip, mp3 ...
 * **Post listing image** : add the featured image of the post to the listing ...
-* **Screenshots** here : [AdminRocket](http://bnotteghem.com/adminrocket "AdminRocket")
+* **Screenshots** here : [AdminRocket website](http://bnotteghem.com/adminrocket "AdminRocket")
 
 == Installation ==
 
 To install AdminRocket, you must follow carefully these steps :
 
 * Unzip the plugin in wp-content/plugins
-
 * Copy the file wp-content/plugins/adminrocket/adminrocket-options/options.php to the root of your theme (wp-content/themes/yourtheme)
-
 * If your theme options.php already contains this file, copy the contents of options.php file in the functions.php file of your theme.
-
 * Connect to Wordpress backend and activate the extension (plugin -> Activate AdminRocket)
-
-* WELL DONE! The plugin is now installed! 
-You can change the appearance of the new backend AdminRocket menu in the WordPress menu.
+* WELL DONE! The plugin is now installed! You can change the appearance of the new backend AdminRocket menu in the WordPress menu.
 
 == Frequently Asked Questions ==
 
@@ -94,8 +89,6 @@ All of these resources are available to the plugin root in the folder /adminrock
 
 == Sources & Credits ==
 
-I've used the following script, css stylesheet, images, icons or other files as listed.
-
 * options-framework
 * animate.css
 * flexisel.js
@@ -104,7 +97,6 @@ I've used the following script, css stylesheet, images, icons or other files as 
 * unsplash.com
 * gratisography.com
 * pixabay.com
-* ...
 
 == Changelog ==
 
@@ -117,5 +109,11 @@ I've used the following script, css stylesheet, images, icons or other files as 
 empty
 
 == Screenshots ==
-1. Customize your Wordpress backend
-2. Custom posts listing
+1. AdminRocket preview
+2. Customize your posts listing
+3. Customize your edit page
+4. Customize your pages listing
+5. Green light admin dashboard example
+6. Orange dark admin dashboard example
+7. Circular Navigation example
+8. Theme options page to customize AdminRocket features

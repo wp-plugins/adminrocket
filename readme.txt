@@ -8,6 +8,8 @@ Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+AdminRocket allows you to customize your Wordpress backend with custom themes, dashboard widget and your own settings. 
+
 == Description ==
 
 AdminRocket allows you to customize your wordpress backoffice with available themes, Dashboard widget and your own settings. Offer a personalized dashboard to your customers!

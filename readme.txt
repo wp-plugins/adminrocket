@@ -106,8 +106,8 @@ I've used the following script, css stylesheet, images, icons or other files as 
 
 == Changelog ==
 
-= 1.0 =
-* 1.0 Initial release
+= 1.1 =
+* Initial release
 
 == Upgrade Notice ==
 

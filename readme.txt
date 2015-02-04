@@ -109,11 +109,11 @@ All of these resources are available to the plugin root in the folder /adminrock
 empty
 
 == Screenshots ==
-1. AdminRocket preview
-2. Customize your posts listing
-3. Customize your edit page
-4. Customize your pages listing
-5. Green light admin dashboard example
-6. Orange dark admin dashboard example
-7. Circular Navigation example
-8. Theme options page to customize AdminRocket features
+1. AdminRocket preview : menu left/right, adminbar top/bottom, new circular navigation menu...
+2. Customize your posts listing with posts thumbnails 
+3. Customize your edit pages and posts
+4. Customize your pages listing with sample blue theme
+5. Green light admin dashboard example with custom widget
+6. Orange dark admin dashboard example with custom widget
+7. New Circular Navigation menu example (shortcuts menu)
+8. Theme options page to user-friendly customization with dedicated menu!

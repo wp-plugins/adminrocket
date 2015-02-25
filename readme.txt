@@ -3,8 +3,8 @@ Contributors: ibenot
 Donate link: http://bnotteghem.com/adminrocket
 Tags: admin, theme, wordpress, backoffice, backend, design, flat, custom, wp-admin
 Requires at least: 4.0
-Tested up to: 4.1
-Stable tag: 1.1
+Tested up to: 4.1.1
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,8 +67,8 @@ This plugin enables default administration theme, and the configuration can be o
 
 * Light theme : 6 themes available
 * Dark theme : 1 theme available
-* +30 FREE background HD Photo
-* +30 FREE background Patterns
+* 5 FREE background HD Photo
+* 5 FREE background Patterns
 
 All of these resources are available to the plugin root in the folder /adminrocket-res
 
@@ -99,6 +99,10 @@ All of these resources are available to the plugin root in the folder /adminrock
 * pixabay.com
 
 == Changelog ==
+
+= 1.2 =
+* Patch disable CSS animate
+* remove background and pattern
 
 = 1.1 =
 * Initial release
